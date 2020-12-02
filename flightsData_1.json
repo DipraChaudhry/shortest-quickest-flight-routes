@@ -1,0 +1,79 @@
+[
+  {
+    "no": "6E-101",
+    "org": "Indigo Airlines",
+    "oc": "DEL",
+    "dc": "BOM",
+    "date": "2020-12-20",
+    "dTime": "0600",
+    "aTime": "1130",
+    "duration": "4:05",
+    "price": "2500"
+  },
+  {
+    "no": "6E-102",
+    "org": "Indigo Airlines",
+    "oc": "DEL",
+    "dc": "BOM",
+    "date": "2020-12-20",
+    "dTime": "0800",
+    "aTime": "1330",
+    "duration": "6:05",
+    "price": "1700"
+  },
+  {
+    "no": "GO-321",
+    "org": "Go Air",
+    "oc": "DEL",
+    "dc": "BOM",
+    "date": "2020-12-20",
+    "dTime": "1300",
+    "aTime": "1630",
+    "duration": "6:05",
+    "price": "1900"
+  },
+  {
+    "no": "SP-021",
+    "org": "Spice Jet",
+    "oc": "DEL",
+    "dc": "BOM",
+    "date": "2020-12-20",
+    "dTime": "1100",
+    "aTime": "1430",
+    "duration": "3:05",
+    "price": "1000"
+  },
+  {
+    "no": "6E-102",
+    "org": "Indigo Airlines",
+    "oc": "DEL",
+    "dc": "BOM",
+    "date": "2020-12-21",
+    "dTime": "0800",
+    "aTime": "1330",
+    "duration": "4:05",
+    "price": "1700"
+  },
+  {
+    "no": "6E-205",
+    "org": "Indigo Airlines",
+    "oc": "BOM",
+    "dc": "DEL",
+    "date": "2020-12-21",
+    "dTime": "0800",
+    "aTime": "1330",
+    "duration": "4:05",
+    "price": "1800"
+  },
+  {
+    "no": "6E-205",
+    "org": "Indigo Airlines",
+    "oc": "BOM",
+    "dc": "DEL",
+    "date": "2020-12-23",
+    "dTime": "0900",
+    "aTime": "1330",
+    "duration": "4:05",
+    "price": "5000"
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "origin": "DEL",
+    "destination": "HKG",
+    "distance": "3750",
+    "duration": "5"
+  },
+  {
+    "origin": "HKG",
+    "destination": "SYD",
+    "distance": "7400",
+    "duration": "9"
+  },
+  {
+    "origin": "DEL",
+    "destination": "KUL",
+    "distance": "4000",
+    "duration": "5"
+  },
+  {
+    "origin": "KUL",
+    "destination": "SYD",
+    "distance": "6600",
+    "duration": "8"
+  },
+  {
+    "origin": "HKG",
+    "destination": "SIN",
+    "distance": "2500",
+    "duration": "3"
+  },
+  {
+    "origin": "DEL",
+    "destination": "SIN",
+    "distance": "14000",
+    "duration": "15"
+  },
+  {
+    "origin": "DEL",
+    "destination": "SYD",
+    "distance": "10500",
+    "duration": "16"
+  },
+  {
+    "origin": "SIN",
+    "destination": "SYD",
+    "distance": "6300",
+    "duration": "8"
+  },
+  {
+    "origin": "HKG",
+    "destination": "KUL",
+    "distance": "2500",
+    "duration": "4"
+  },
+  {
+    "origin": "KUL",
+    "destination": "SIN",
+    "distance": "300",
+    "duration": "1"
+  },
+
+
+  {
+    "origin": "DEL",
+    "destination": "BKK",
+    "distance": "3000",
+    "duration": "4"
+  },
+
+
+  {
+    "origin": "BKK",
+    "destination": "SIN",
+    "distance": "1400",
+    "duration": "2"
+  },
+
+  {
+    "origin": "BKK",
+    "destination": "SYD",
+    "distance": "7500",
+    "duration": "9"
+  },
+
+  {
+    "origin": "SIN",
+    "destination": "JKT",
+    "distance": "900",
+    "duration": "2"
+  },
+
+  {
+    "origin": "JKT",
+    "destination": "SYD",
+    "distance": "5500",
+    "duration": "7"
+  },
+
+  {
+    "origin": "DEL",
+    "destination": "JKT",
+    "distance": "7040",
+    "duration": "7"
+  },
+
+  {
+    "origin": "KUL",
+    "destination": "JKT",
+    "distance": "1700",
+    "duration": "2"
+  },
+
+
+
+
+
+
+
+
+
+  {
+    "origin": "HKG",
+    "destination": "DEL",
+    "distance": "3750",
+    "duration": "4"
+  },
+  {
+    "origin": "SYD",
+    "destination": "HKG",
+    "distance": "7400",
+    "duration": "10"
+  },
+  {
+    "origin": "KUL",
+    "destination": "DEL",
+    "distance": "4100",
+    "duration": "5"
+  },
+  {
+    "origin": "SYD",
+    "destination": "KUL",
+    "distance": "6600",
+    "duration": "8"
+  },
+  {
+    "origin": "SIN",
+    "destination": "HKG",
+    "distance": "2500",
+    "duration": "4"
+  },
+  {
+    "origin": "SIN",
+    "destination": "DEL",
+    "distance": "14000",
+    "duration": "15"
+  },
+  {
+    "origin": "DEL",
+    "destination": "SYD",
+    "distance": "10500",
+    "duration": "17"
+  },
+  {
+    "origin": "SYD",
+    "destination": "SIN",
+    "distance": "6300",
+    "duration": "7"
+  },
+  {
+    "origin": "KUL",
+    "destination": "HKG",
+    "distance": "2500",
+    "duration": "4"
+  },
+  {
+    "origin": "SIN",
+    "destination": "KUL",
+    "distance": "300",
+    "duration": "1"
+  },
+
+
+
+  {
+    "origin": "BKK",
+    "destination": "DEL",
+    "distance": "3000",
+    "duration": "4"
+  },
+
+
+  {
+    "origin": "SIN",
+    "destination": "BKK",
+    "distance": "1400",
+    "duration": "2"
+  },
+
+  {
+    "origin": "SYD",
+    "destination": "BKK",
+    "distance": "7500",
+    "duration": "10"
+  },
+
+  {
+    "origin": "JKT",
+    "destination": "SIN",
+    "distance": "900",
+    "duration": "2"
+  },
+
+  {
+    "origin": "SYD",
+    "destination": "JKT",
+    "distance": "5500",
+    "duration": "8"
+  },
+
+  {
+    "origin": "JKT",
+    "destination": "DEL",
+    "distance": "7040",
+    "duration": "7"
+  } ,
+
+  {
+    "origin": "JKT",
+    "destination": "KUL",
+    "distance": "1700",
+    "duration": "2"
+  }
+]
